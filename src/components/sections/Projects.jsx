@@ -34,7 +34,7 @@ export const Projects = () => {
 
 <div className="">
             
-           <video className="absolute object-cover max-h-screen h-screen min-w-screen" muted autoPlay loop >
+           <video className="absolute object-cover max-h-screen h-screen min-w-screen" muted >
                 <source src="./Cassandra.mp4" type="video/mp4"/>
             </video> 
             </div>
