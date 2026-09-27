@@ -34,7 +34,10 @@ export const Projects = () => {
 
 <div className="">
             
-            <video type="video/mp4" autoPlay muted loop src="./Videos/Promo.mp4" /></div>
+            <video className="autoPlay loop muted">
+                <source src="./Videos/Promo.mp4" type="video/mp4"/>
+            </video>
+            </div>
 
 
 
