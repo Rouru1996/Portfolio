@@ -143,11 +143,11 @@ Curtain with curtain rod. I created realistic curtains using Blender’s built-i
 
 <div className="grid grid-cols-1 md:grid-cols-2 ">
         <div className="mx-6 ">
-                <video  autoPlay muted loop src="Videos/TAVI_Character.mp4" />
+                <video  autoPlay muted loop src="./Videos/TAVI_Character.mp4" />
         </div>
 
     <div className="mx-6">
-            <video  autoPlay muted loop src="Videos/CharacterLurch.mp4" />
+            <video  autoPlay muted loop src="./Videos/CharacterLurch.mp4" />
 
 
     </div> </div></div> </div> </div>

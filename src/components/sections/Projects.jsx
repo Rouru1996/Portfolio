@@ -34,7 +34,7 @@ export const Projects = () => {
 
 <div className="">
             
-            <video  autoPlay muted loop src="Videos/Promo.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/Promo.mp4" /></div>
 
 
 
@@ -55,7 +55,7 @@ Explore planets in space by switch your gravity condition and solve puzzles.
 
 <div className="">
             
-            <video  autoPlay muted loop src="Videos/TaviClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/TaviClips.mp4" /></div>
 
 
             <div className=" p-6 rounded-xl border border-white/10 ">
@@ -76,7 +76,7 @@ Escape the endless loop by solving puzzles in this Silent Hill PT like game.
 
 <div className="">
             
-            <video  autoPlay muted loop src="Videos/MementoClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/MementoClips.mp4" /></div>
 
 
 
@@ -99,7 +99,7 @@ Unlock areas and learn new mechanics by collect nuts in the tree and interacting
 
             <div className="">
             
-            <video  autoPlay muted loop src="Videos/LurchClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/LurchClips.mp4" /></div>
 
 
 
@@ -131,7 +131,7 @@ Personal role: Core Gameplay Mechanics, Main Programer
 
 <div className="">
             
-            <video  autoPlay muted loop src="Videos/FrogClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/FrogClips.mp4" /></div>
 
 
 </div>
@@ -178,7 +178,7 @@ Personal role: Core Gameplay Mechanics, Main Programer
 
 <div className="">
             
-            <video  autoPlay muted loop src="Videos/SummerClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/SummerClips.mp4" /></div>
 
 
 
@@ -202,7 +202,7 @@ Personal role: Core Gameplay Mechanics, Main Programer
 
 <div className="">
             
-            <video  autoPlay muted loop src="Videos/HolgerClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/HolgerClips.mp4" /></div>
 
 
 
@@ -229,7 +229,7 @@ Personal role: Visual Novel Mechanic, Art Implementation
 
 <div className="">
            
-            <video  autoPlay muted loop src="Videos/MagicClips.mp4" /></div>
+            <video  autoPlay muted loop src="./Videos/MagicClips.mp4" /></div>
 
 
 
