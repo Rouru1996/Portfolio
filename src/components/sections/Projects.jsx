@@ -34,7 +34,7 @@ export const Projects = () => {
 
 <div className="">
             
-            <video className="{object-cover transition-all duration-200 border border-white border-2} autoPlay loop muted">
+            <video className="{object-cover transition-all duration-200 border border-white border-2} controls loop muted">
                 <source src="./Videos/Promo.mp4" type="video/mp4"/>
             </video>
             </div>
