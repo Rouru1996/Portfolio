@@ -47,7 +47,7 @@ className="min-h-screen flex items-center justify-center relative">
 
     <div className="grid grid-cols-1 ">
         <div className="p-6 rounded-xl mb-6 mx-6">
-                <img src="/Pictures/line2.png"/>
+                <img src="Pictures/line2.png"/>
         </div>
     </div> 
 
@@ -59,7 +59,7 @@ Curtain with curtain rod. I created realistic curtains using Blender’s built-i
         </div>
 
     <div className="w-3/4 mb-6 mx-6">
-           <img src="/Pictures/1_-Vorhang.png"/>  
+           <img src="Pictures/1_-Vorhang.png"/>  
 
     </div> </div>
     
@@ -73,7 +73,7 @@ Curtain with curtain rod. I created realistic curtains using Blender’s built-i
         </div>
 
     <div className="w-3/4 mb-6 mx-6">
-              <img src="/Pictures/2_1Art.jpg"/>
+              <img src="Pictures/2_1Art.jpg"/>
 
     </div> </div>
 
@@ -89,16 +89,16 @@ Curtain with curtain rod. I created realistic curtains using Blender’s built-i
     </div>
 
     <div className="w-3/4 mx-6">
-            <img src="/Pictures/3_1Art.jpg"/>
+            <img src="Pictures/3_1Art.jpg"/>
     </div> </div>
 
 <div className="grid grid-cols-1 md:grid-cols-2 ">
         <div className=" mb-6 mx-6">
-                <img src="/Pictures/4_1Art.jpg"/>
+                <img src="Pictures/4_1Art.jpg"/>
         </div>
 
     <div className="mb-6 mx-6">
-           <img src="/Pictures/5_1Art.jpg"/>
+           <img src="Pictures/5_1Art.jpg"/>
 
     </div> </div>
 
@@ -107,27 +107,27 @@ Curtain with curtain rod. I created realistic curtains using Blender’s built-i
 
 <div className="grid grid-cols-1 md:grid-cols-2">
     <div className="mb-6 mx-6">
-        <img src="/Pictures/6_1Art.jpg"/>
+        <img src="Pictures/6_1Art.jpg"/>
 </div>
     <div className="mb-6 mx-6">
-           <img src="/Pictures/7_1Art.jpg"/>
+           <img src="Pictures/7_1Art.jpg"/>
 
     </div> </div>
 
 <div className="grid grid-cols-1 md:grid-cols-2 ">
         <div className="mx-6">
-                <img src="/Pictures/8_1Art.jpg"/>
+                <img src="Pictures/8_1Art.jpg"/>
         </div>
 
     <div className="mb-6 mx-6">
-           <img src="/Pictures/9_1Art.jpg"/>
+           <img src="Pictures/9_1Art.jpg"/>
 
 
     </div> </div>
 
    <div className="grid grid-cols-1 ">
         <div className="p-6 rounded-xl mt-6">
-                <img src="/Pictures/line2.png"/>
+                <img src="Pictures/line2.png"/>
         </div>
     </div> 
 
@@ -143,11 +143,11 @@ Curtain with curtain rod. I created realistic curtains using Blender’s built-i
 
 <div className="grid grid-cols-1 md:grid-cols-2 ">
         <div className="mx-6 ">
-                <video  autoPlay muted loop src="/Videos/TAVI_Character.mp4" />
+                <video  autoPlay muted loop src="Videos/TAVI_Character.mp4" />
         </div>
 
     <div className="mx-6">
-            <video  autoPlay muted loop src="/Videos/CharacterLurch.mp4" />
+            <video  autoPlay muted loop src="Videos/CharacterLurch.mp4" />
 
 
     </div> </div></div> </div> </div>

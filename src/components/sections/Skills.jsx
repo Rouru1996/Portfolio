@@ -40,7 +40,7 @@ className="min-h-screen flex items-center justify-center relative"
       
 <div>
     <div className="">
-           <img src="/Pictures/Zeichenflache_1.png"/>
+           <img src="Pictures/Zeichenflache_1.png"/>
 
     </div>
 </div>
