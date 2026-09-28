@@ -50,7 +50,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
     <div className="mt-6">
-           <video  autoPlay muted loop src="./Videos/TAVI_UI_Menue&HUD.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/tavi_ui_menue&hud.mp4" />
 
     </div> </div>
     
@@ -63,7 +63,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
     <div className="mt-6">
-              <video  autoPlay muted loop src="./Videos/TAVI_Dynamic_World_UI.mp4" />
+              <video  autoPlay muted loop src="https://www.armese.de/video/tavi_dynamic_world_ui.mp4" />
 
     </div> </div>
 
@@ -101,7 +101,7 @@ className="min-h-screen flex items-center justify-center relative">
     </div>
 
     <div className="mt-6">
-            <video  autoPlay muted loop src="./Videos/EarlyAccess_StartUI.mp4" />
+            <video  autoPlay muted loop src="https://www.armese.de/video/earlyaccess_startui.mp4" />
     </div> </div>
 
 <div className="grid grid-cols-1 md:grid-cols-2 ">
@@ -114,7 +114,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
     <div className="mt-6">
-           <video  autoPlay muted loop src="./Videos/EarlyAccess_TabChange.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/earlyaccess_tabchange.mp4" />
 
     </div> </div>
 
@@ -130,7 +130,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
     <div className="mt-6">
-           <video  autoPlay muted loop src="./Videos/EarlyAccess_UISettings.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/earlyaccess_uisettings.mp4" />
 
     </div> </div>
 
@@ -150,7 +150,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
     <div className="mt-6">
-           <video  autoPlay muted loop src="./Videos/AllGames_EveryMainMenu.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/allgames_everymainmenu.mp4" />
 
 
     </div> </div>
@@ -165,7 +165,7 @@ However, all of them were designed to match the overall style and atmosphere of 
         </div>
 
     <div className="mt-6">
-            <video  autoPlay muted loop src="./Videos/AllGames_UIOverview.mp4" />
+            <video  autoPlay muted loop src="https://www.armese.de/video/allgames_uioverview.mp4" />
 
     </div> </div></div></div></div>
 </section>);};

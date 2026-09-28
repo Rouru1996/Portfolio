@@ -33,7 +33,7 @@ className="min-h-screen flex items-center justify-center relative">
                     To maintain the illusion of an endless hallway, I placed the basic layout of the apartment four times in a circle, allowing the player to effectively walk in a complete loop.
                 </p></p>
     <div className="">
-           <video  autoPlay muted loop src="./Videos/NEW_Memento_Prinzip.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/new_memento_prinzip.mp4" />
 
     </div> </div>
         <div className="">
@@ -66,11 +66,11 @@ className="min-h-screen flex items-center justify-center relative">
 
 <div className="grid grid-cols-1 md:grid-cols-2 ">
         <div className="p-6 rounded-xl">
-            <video  autoPlay muted loop src="./Videos/Memento_OtherChange.mp4" />
+            <video  autoPlay muted loop src="https://www.armese.de/video/memento_otherchange.mp4" />
         </div>
 
     <div className="p-6 rounded-xl">
-           <video  autoPlay muted loop src="./Videos/Memento_FloorChange.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/memento_floorchange.mp4" />
 
     </div> </div>
 
@@ -106,7 +106,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
         <div className="p-6 rounded-xl">
-           <video  autoPlay muted loop src="./Videos/TAVI_GravityChange.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/tavi_gravitychange.mp4" />
 
     </div> 
     </div> 
@@ -167,7 +167,7 @@ className="min-h-screen flex items-center justify-center relative">
         </div>
 
     <div className="mt-6">
-           <video  autoPlay muted loop src="./Videos/OverallDiffrentCams.mp4" />
+           <video  autoPlay muted loop src="https://www.armese.de/video/overalldiffrentcams.mp4" />
 
     </div> </div>
 
