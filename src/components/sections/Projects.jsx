@@ -35,7 +35,7 @@ export const Projects = () => {
 <div className="">
             
            <video className="" muted controls autoplay>
-                <source src="../Cassandra.mp4" type="video/mp4"/>
+                <source src="https://www.armese.de/video/cassandra.mp4" type="video/mp4"/>
             </video> 
             </div>
 
